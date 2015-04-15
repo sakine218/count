@@ -53,6 +53,7 @@ label.textColor=[UIColor blueColor];
 }
 
 
+
 - (IBAction)clear{
     
     number=0;
