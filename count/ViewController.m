@@ -14,6 +14,7 @@
 
 @implementation ViewController
 
+
 - (IBAction)plus{
     
         number=number+1;
