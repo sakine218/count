@@ -7,13 +7,14 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		810EA75419ACC13900E8D965 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 810EA75319ACC13900E8D965 /* Main.storyboard */; };
+		815B762119AC72E800FDE012 /* tiya.png in Resources */ = {isa = PBXBuildFile; fileRef = 815B762019AC72E800FDE012 /* tiya.png */; };
 		81955AE919A95E5B00FB8DA7 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 81955AE819A95E5B00FB8DA7 /* Foundation.framework */; };
 		81955AEB19A95E5B00FB8DA7 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 81955AEA19A95E5B00FB8DA7 /* CoreGraphics.framework */; };
 		81955AED19A95E5B00FB8DA7 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 81955AEC19A95E5B00FB8DA7 /* UIKit.framework */; };
 		81955AF319A95E5B00FB8DA7 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 81955AF119A95E5B00FB8DA7 /* InfoPlist.strings */; };
 		81955AF519A95E5B00FB8DA7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 81955AF419A95E5B00FB8DA7 /* main.m */; };
 		81955AF919A95E5B00FB8DA7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 81955AF819A95E5B00FB8DA7 /* AppDelegate.m */; };
-		81955AFC19A95E5B00FB8DA7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81955AFA19A95E5B00FB8DA7 /* Main.storyboard */; };
 		81955AFF19A95E5B00FB8DA7 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 81955AFE19A95E5B00FB8DA7 /* ViewController.m */; };
 		81955B0119A95E5B00FB8DA7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 81955B0019A95E5B00FB8DA7 /* Images.xcassets */; };
 		81955B0819A95E5B00FB8DA7 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 81955B0719A95E5B00FB8DA7 /* XCTest.framework */; };
@@ -21,6 +22,9 @@
 		81955B0A19A95E5B00FB8DA7 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 81955AEC19A95E5B00FB8DA7 /* UIKit.framework */; };
 		81955B1219A95E5B00FB8DA7 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 81955B1019A95E5B00FB8DA7 /* InfoPlist.strings */; };
 		81955B1419A95E5B00FB8DA7 /* countTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 81955B1319A95E5B00FB8DA7 /* countTests.m */; };
+		81955B1E19A9645A00FB8DA7 /* gochuumon_wa_usagi_desu_ka-146.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 81955B1D19A9645A00FB8DA7 /* gochuumon_wa_usagi_desu_ka-146.jpg */; };
+		81955B2019A977FE00FB8DA7 /* 吹き出し.png in Resources */ = {isa = PBXBuildFile; fileRef = 81955B1F19A977FE00FB8DA7 /* 吹き出し.png */; };
+		81955B2219A97A9E00FB8DA7 /* 吹き出し２.png in Resources */ = {isa = PBXBuildFile; fileRef = 81955B2119A97A9E00FB8DA7 /* 吹き出し２.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +38,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		810EA75319ACC13900E8D965 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
+		815B762019AC72E800FDE012 /* tiya.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tiya.png; sourceTree = "<group>"; };
 		81955AE519A95E5B00FB8DA7 /* count.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = count.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		81955AE819A95E5B00FB8DA7 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		81955AEA19A95E5B00FB8DA7 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -44,7 +50,6 @@
 		81955AF619A95E5B00FB8DA7 /* count-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "count-Prefix.pch"; sourceTree = "<group>"; };
 		81955AF719A95E5B00FB8DA7 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		81955AF819A95E5B00FB8DA7 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		81955AFB19A95E5B00FB8DA7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		81955AFD19A95E5B00FB8DA7 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		81955AFE19A95E5B00FB8DA7 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		81955B0019A95E5B00FB8DA7 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
@@ -53,6 +58,9 @@
 		81955B0F19A95E5B00FB8DA7 /* countTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "countTests-Info.plist"; sourceTree = "<group>"; };
 		81955B1119A95E5B00FB8DA7 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		81955B1319A95E5B00FB8DA7 /* countTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = countTests.m; sourceTree = "<group>"; };
+		81955B1D19A9645A00FB8DA7 /* gochuumon_wa_usagi_desu_ka-146.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "gochuumon_wa_usagi_desu_ka-146.jpg"; sourceTree = "<group>"; };
+		81955B1F19A977FE00FB8DA7 /* 吹き出し.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "吹き出し.png"; sourceTree = "<group>"; };
+		81955B2119A97A9E00FB8DA7 /* 吹き出し２.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "吹き出し２.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,9 +120,13 @@
 		81955AEE19A95E5B00FB8DA7 /* count */ = {
 			isa = PBXGroup;
 			children = (
+				815B762019AC72E800FDE012 /* tiya.png */,
+				81955B2119A97A9E00FB8DA7 /* 吹き出し２.png */,
+				81955B1F19A977FE00FB8DA7 /* 吹き出し.png */,
+				81955B1D19A9645A00FB8DA7 /* gochuumon_wa_usagi_desu_ka-146.jpg */,
 				81955AF719A95E5B00FB8DA7 /* AppDelegate.h */,
 				81955AF819A95E5B00FB8DA7 /* AppDelegate.m */,
-				81955AFA19A95E5B00FB8DA7 /* Main.storyboard */,
+				810EA75319ACC13900E8D965 /* Main.storyboard */,
 				81955AFD19A95E5B00FB8DA7 /* ViewController.h */,
 				81955AFE19A95E5B00FB8DA7 /* ViewController.m */,
 				81955B0019A95E5B00FB8DA7 /* Images.xcassets */,
@@ -228,9 +240,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				810EA75419ACC13900E8D965 /* Main.storyboard in Resources */,
+				81955B1E19A9645A00FB8DA7 /* gochuumon_wa_usagi_desu_ka-146.jpg in Resources */,
+				81955B2019A977FE00FB8DA7 /* 吹き出し.png in Resources */,
 				81955B0119A95E5B00FB8DA7 /* Images.xcassets in Resources */,
 				81955AF319A95E5B00FB8DA7 /* InfoPlist.strings in Resources */,
-				81955AFC19A95E5B00FB8DA7 /* Main.storyboard in Resources */,
+				815B762119AC72E800FDE012 /* tiya.png in Resources */,
+				81955B2219A97A9E00FB8DA7 /* 吹き出し２.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -280,14 +296,6 @@
 				81955AF219A95E5B00FB8DA7 /* en */,
 			);
 			name = InfoPlist.strings;
-			sourceTree = "<group>";
-		};
-		81955AFA19A95E5B00FB8DA7 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				81955AFB19A95E5B00FB8DA7 /* Base */,
-			);
-			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
 		81955B1019A95E5B00FB8DA7 /* InfoPlist.strings */ = {
@@ -456,6 +464,7 @@
 				81955B1919A95E5B00FB8DA7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		81955B1A19A95E5B00FB8DA7 /* Build configuration list for PBXNativeTarget "countTests" */ = {
 			isa = XCConfigurationList;
@@ -464,6 +473,7 @@
 				81955B1C19A95E5B00FB8DA7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
